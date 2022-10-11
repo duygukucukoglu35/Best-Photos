@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Best-Photos/static/css/main.dbb29b47.css",
+    "main.js": "/Best-Photos/static/js/main.7abdbb9c.js",
+    "index.html": "/Best-Photos/index.html",
+    "main.dbb29b47.css.map": "/Best-Photos/static/css/main.dbb29b47.css.map",
+    "main.7abdbb9c.js.map": "/Best-Photos/static/js/main.7abdbb9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbb29b47.css",
+    "static/js/main.7abdbb9c.js"
+  ]
+}
