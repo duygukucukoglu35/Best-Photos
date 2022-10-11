@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(250, 237, 220);
+}
+
+
+.hover img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .75s ease-in-out;
+	transition: .75s ease-in-out;
+    display:inline-block;
+}
+.hover img:hover {
+	-webkit-transform: scale(1.15);
+	transform: scale(1.3);    
+}
+.img{
+    overflow: hidden;
+}
+h1{
+    color: rgb(117, 175, 246);
+    text-shadow: 4px 4px 4px #222121;
+    letter-spacing: 14px;
+    font-size: 60px;
+    font-family:cursive
+}
+h5{
+    color: rgb(117, 175, 246);
+    text-shadow: 2px 1px 1px #222121;
+    font-family:cursive
+}
+div .card{
+    border: 2px solid gray
+}
